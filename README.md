@@ -22,6 +22,7 @@ As seguintes ferramentas foram usadas para a construção do projeto:
 1. Html
 2. Css
 3. SQL
+4. Bootstrap
 ### Alguns dos desafios encontrados por você no desenvolvimento
 Entre as dificuldades encontradas pelos desenvolvedores do projeto foi questão da organização e divisão das tarefas entre os integrantes do grupo; a conciliação de horários para o encontro dos desenvolvedores; a realização e integração do banco de dados no projeto.
 
