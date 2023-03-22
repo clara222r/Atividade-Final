@@ -1,5 +1,8 @@
 # Vitrola
 ## Sumário
+* DescriçÃO 
+- O que a aplicação faz
+- Alguns dos desafios encontrad por voc no desenvolvimento
 
 ## Descrição
 O "Vitrola" tem por objetivo ajudar os professores de música da cidade de Salinas-MG a terem um maior alcance de pessoas interessadas em aprender a tocar instrumentos, e, também, desenvolver e/ou aperfeiçoar a sua técnica vocal. Visando a dificuldade encontrada por estes profissionais, em relação a divulgação e reconhecimento de seu trabalho, o site irá disponibilizar dados para contato, bem como divulgar eventos musicais futuros na cidade e região.
