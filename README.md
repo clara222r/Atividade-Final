@@ -5,7 +5,6 @@
   - Quais as tecnologias utilizadas
   - Alguns dos desafios encontrados por você no desenvolvimento
 * Link para o endereço da página onde o projeto foi publicado
-https://velvety-pasca-3424af.netlify.app/professores.html
 * Como instalar e executar o projeto
 * Como usar o projeto
 * Créditos
@@ -28,7 +27,7 @@ As seguintes ferramentas foram usadas para a construção do projeto:
 Entre as dificuldades encontradas pelos desenvolvedores do projeto foi questão da organização e divisão das tarefas entre os integrantes do grupo; a conciliação de horários para o encontro dos desenvolvedores; a realização e integração do banco de dados no projeto.
 
 ## Link para o endereço da página onde o projeto foi publicado
-
+https://vitrolasalinas.netlify.app/
 
 ## Como instalar e executar o projeto
 Para ter acesso a aplicação basta entrar no site, por meio do link disponível acima. Para sua execução, no caso do professor, basta se registrar, e, em seguida, realizar o login. No caso do usuário basta acessar o site e atualizar a página, caso necessário.
