@@ -16,7 +16,7 @@ O "Vitrola" tem por objetivo ajudar os professores de música da cidade de Salin
 A aplicação primeiramente possui uma página inicial, contendo o objetivo do site e uma descrição acerca dos desenvolvedores do projeto. Também apresenta uma seção de professores, onde é apresentado os profissionais disponíveis, eventos e informações, na qual será detalhado dados sobre. O professor terá um perfil que poderá ser visto pelos visitantes da página.
 
 ### O que a aplicação faz
-Na aplicação, será possível que o visitante veja o perfil dos professores e os eventos disponíveis. Também será possível o cadastro dos professores no site, com a inclusão de dados como(). E os administradores poderão cadastrar eventos, divulgando ().
+Na aplicação, será possível que o visitante veja o perfil dos professores e os eventos disponíveis. Também será possível o cadastro dos professores no site, com a inclusão de dados como nome, email e senha. E os administradores poderão cadastrar eventos, divulgando informações a respeito.
 ### Quais as tecnologias utilizadas
 As seguintes ferramentas foram usadas para a construção do projeto:
 1. Html
