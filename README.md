@@ -5,6 +5,7 @@
   - Quais as tecnologias utilizadas
   - Alguns dos desafios encontrados por você no desenvolvimento
 * Link para o endereço da página onde o projeto foi publicado
+https://velvety-pasca-3424af.netlify.app/professores.html
 * Como instalar e executar o projeto
 * Como usar o projeto
 * Créditos
